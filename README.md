@@ -1,5 +1,5 @@
 <h1 align="center">Bem vindo ao meu GitHub!!! Meu nome é Thiago Rodrigues 😁👍</h1>
-<h3 align="left">Sou Engenheiro Metalurgista pela UFMG, MBA em Gestão de Processos de Negócios com Green Belt e atualmente estou estudando Desenvolvimento Web FullStack na GAMA ACADEMY e pretendo me especializar em BackEnd;</h3>
+<h3 align="left">Sou Engenheiro Metalurgista pela UFMG, MBA em Gestão de Processos de Negócios com Green Belt e tenho um Bootcamp em Desenvolvimento Web FullStack na GAMA ACADEMY e especialista em BackEnd;</h3>
 
 - 📫 Entre em contato: **thiago.alvimrodrigues@gmail.com**
 
